@@ -20,3 +20,8 @@ print("Highest Rated Movie:", movies[highest])
 print("Highest Rating:", ratings[highest])
 
 
+################ git init -b main
+######  git status  || git add . || git commit -m "first commit "
+######## username pass mange toh personal access token (PAT) chiye  
+#### githubh.com  -setting - developer seting - personal acess tokens
+
